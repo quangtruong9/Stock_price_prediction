@@ -3,7 +3,7 @@
 <div align= "center">
   <h4>We build a stock price prediction using LSTM neutral network. Then we build a dask board using Plotly dask for display our analysis </h4>
 </div>
-<img src="https://github.com/quangtruong9/Stock_price_prediction/blob/master/demo.gif"/>
+<img src="https://github.com/quangtruong9/Stock_price_prediction/blob/master/readme_img/demo.gif"/>
 
 ## :warning: TechStack/framework used
 - LSTM
